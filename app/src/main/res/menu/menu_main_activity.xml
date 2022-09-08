@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search_device"
+        android:icon="@drawable/ic_baseline_person_"
+        android:title="@string/str_menu_search_device"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_enable_bluetooth"
+        android:icon="@drawable/ic_bluetooth"
+        android:title="@string/str_menu_search_device"
+        app:showAsAction="always"/>
+
+</menu>
